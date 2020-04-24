@@ -1,0 +1,3 @@
+[submodule "auto-hashtag"]
+	path = auto-hashtag
+	url = git@github.com:cs-course-stu/CS4242-Social-Media-Computing-NUS.git
