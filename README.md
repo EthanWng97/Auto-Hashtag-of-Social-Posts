@@ -28,6 +28,7 @@ expression = "#friends OR #pets OR #tuesdaymotivation OR #funny OR #contest OR #
 ```
 
 **2. [Generate Formal Data](https://github.com/NavePnow/Auto-Hashtag-of-Social-Posts/blob/master/Generate_Formal_Data.ipynb)**
+
 In this part, you should specify
 
 ```
