@@ -61,3 +61,7 @@ then run Django on your server
 cd auto-hashtag
 python3 manage.py runserver 8000
 ```
+
+## Authors
+* **[NavePnow](https://github.com/NavePnow)** - *Text Analyzer*
+* **[XiaoSanGit](https://github.com/XiaoSanGit)** - *Image Analyzer*
