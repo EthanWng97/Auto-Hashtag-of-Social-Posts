@@ -1,5 +1,7 @@
-<h1 align="center">Auto-Hashtag-of-Social-Posts</h1>
+<h1 align="left">Auto-Hashtag-of-Social-Posts</h1>
+
 ## Description
+
 Auto-hashtag Service can actively analyze users’ messy input, learn the connection between content and hashtags, and recommend hashtags by understanding the content. What’s more, we use different models for the analysis of different media formats in one twitter and combine the results together using weights, so the system is flexible by modifying the weights when coping with various types of twitter, like sharing a funny picture or make text comments. For more details, see the [full document](https://medium.com/navepnow/auto-hashtag-of-social-posts-4401b8226b87)
 
 ## Pipeline
