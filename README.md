@@ -6,10 +6,10 @@ Auto-hashtag Service can actively analyze users’ messy input, learn the connec
 
 ## Pipeline
 
-![Pipeline](https://cdn.jsdelivr.net/gh/NavePnow/blog_photo@private//Untitled.png)
+![Pipeline](https://miro.medium.com/max/1400/1*g3qP5ceLOsXlHq6PAJx7_w.png)
 
 ## Showcase
-![Showcase](https://cdn.jsdelivr.net/gh/NavePnow/blog_photo@private//un123.jpg)
+![Showcase](https://miro.medium.com/max/1400/1*CYOdCBgpiswrzQYSP9uMqw.jpeg)
 ## Getting Started
 ### Install
 ### Text Analyzer
